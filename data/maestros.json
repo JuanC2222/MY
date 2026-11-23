@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "nombre": "Mario Quispe (ejemplo)",
+        "oficio": "Plomería",
+        "zona": "Sopocachi",
+        "tel": "70000001",
+        "desc": "Fugas, grifería y destape de cañerías.",
+        "aprobado": true,
+        "verificado": true,
+        "destacado": true,
+        "fecha": "2026-11-01 09:00"
+    },
+    {
+        "id": 2,
+        "nombre": "Rosa Mamani (ejemplo)",
+        "oficio": "Electricidad",
+        "zona": "Miraflores",
+        "tel": "70000002",
+        "desc": "Tomacorrientes, tableros y revisión de cortocircuitos.",
+        "aprobado": true,
+        "verificado": true,
+        "destacado": false,
+        "fecha": "2026-11-01 09:00"
+    },
+    {
+        "id": 3,
+        "nombre": "Julio Condori (ejemplo)",
+        "oficio": "Cerrajería",
+        "zona": "San Pedro",
+        "tel": "70000003",
+        "desc": "Apertura de puertas y cambio de chapas.",
+        "aprobado": true,
+        "verificado": true,
+        "destacado": false,
+        "fecha": "2026-11-01 09:00"
+    },
+    {
+        "id": 4,
+        "nombre": "Carmen Apaza (ejemplo)",
+        "oficio": "Pintura",
+        "zona": "Sopocachi",
+        "tel": "70000004",
+        "desc": "Pintura de interiores y tratamiento de humedad superficial.",
+        "aprobado": true,
+        "verificado": false,
+        "destacado": false,
+        "fecha": "2026-11-01 09:00"
+    },
+    {
+        "id": 5,
+        "nombre": "Luis Choque (ejemplo)",
+        "oficio": "Calefones",
+        "zona": "Calacoto",
+        "tel": "70000005",
+        "desc": "Mantenimiento y revisión de calefones.",
+        "aprobado": true,
+        "verificado": true,
+        "destacado": true,
+        "fecha": "2026-11-01 09:00"
+    },
+    {
+        "id": 6,
+        "nombre": "Pablo Flores (ejemplo)",
+        "oficio": "Computación e impresoras",
+        "zona": "Miraflores",
+        "tel": "70000006",
+        "desc": "Soporte de computadoras, impresoras y fotocopiadoras.",
+        "aprobado": true,
+        "verificado": false,
+        "destacado": false,
+        "fecha": "2026-11-01 09:00"
+    },
+    {
+        "id": 7,
+        "nombre": "René Ticona (ejemplo)",
+        "oficio": "Automotriz básico",
+        "zona": "Obrajes",
+        "tel": "70000007",
+        "desc": "Presión de llantas, filtro de aire y batería, con ficha del vehículo.",
+        "aprobado": true,
+        "verificado": true,
+        "destacado": false,
+        "fecha": "2026-11-01 09:00"
+    },
+    {
+        "id": 8,
+        "nombre": "Walter Limachi (ejemplo)",
+        "oficio": "Plomería",
+        "zona": "Villa Fátima",
+        "tel": "70000008",
+        "desc": "Instalación de grifería y reparación de fugas.",
+        "aprobado": true,
+        "verificado": false,
+        "destacado": false,
+        "fecha": "2026-11-01 09:00"
+    }
+]

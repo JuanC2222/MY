@@ -1,0 +1,100 @@
+[
+    {
+        "id": 1,
+        "oficio": "Plomería",
+        "trabajo": "Cambio de grifo",
+        "min": 80,
+        "max": 150
+    },
+    {
+        "id": 2,
+        "oficio": "Plomería",
+        "trabajo": "Reparación de fuga o gotera",
+        "min": 100,
+        "max": 250
+    },
+    {
+        "id": 3,
+        "oficio": "Plomería",
+        "trabajo": "Destape de cañería",
+        "min": 120,
+        "max": 300
+    },
+    {
+        "id": 4,
+        "oficio": "Electricidad",
+        "trabajo": "Cambio de tomacorriente o interruptor",
+        "min": 50,
+        "max": 100
+    },
+    {
+        "id": 5,
+        "oficio": "Electricidad",
+        "trabajo": "Revisión de cortocircuito",
+        "min": 100,
+        "max": 250
+    },
+    {
+        "id": 6,
+        "oficio": "Cerrajería",
+        "trabajo": "Apertura de puerta",
+        "min": 80,
+        "max": 200
+    },
+    {
+        "id": 7,
+        "oficio": "Cerrajería",
+        "trabajo": "Cambio de chapa",
+        "min": 120,
+        "max": 300
+    },
+    {
+        "id": 8,
+        "oficio": "Pintura",
+        "trabajo": "Pintura por m² (interiores)",
+        "min": 15,
+        "max": 35
+    },
+    {
+        "id": 9,
+        "oficio": "Calefones",
+        "trabajo": "Mantenimiento de calefón",
+        "min": 150,
+        "max": 300
+    },
+    {
+        "id": 10,
+        "oficio": "Computación e impresoras",
+        "trabajo": "Mantenimiento de impresora o fotocopiadora",
+        "min": 100,
+        "max": 250
+    },
+    {
+        "id": 11,
+        "oficio": "Computación e impresoras",
+        "trabajo": "Revisión y formateo de computadora",
+        "min": 100,
+        "max": 200
+    },
+    {
+        "id": 12,
+        "oficio": "Automotriz básico",
+        "trabajo": "Revisión de presión de llantas",
+        "min": 20,
+        "max": 50
+    },
+    {
+        "id": 13,
+        "oficio": "Automotriz básico",
+        "trabajo": "Limpieza de filtro de aire",
+        "min": 40,
+        "max": 100
+    },
+    {
+        "id": 14,
+        "oficio": "Automotriz básico",
+        "trabajo": "Revisión de batería",
+        "min": 30,
+        "max": 60
+    }
+]
